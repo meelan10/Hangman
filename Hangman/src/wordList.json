@@ -1,0 +1,62 @@
+{
+  "easy": [
+    "apple",
+    "tiger",
+    "house",
+    "chair",
+    "bread",
+    "plant",
+    "river",
+    "smile",
+    "table",
+    "phone"
+  ],
+  "medium": [
+    "computer",
+    "guitar",
+    "library",
+    "mountain",
+    "bicycle",
+    "airport",
+    "teacher",
+    "student",
+    "journey",
+    "weather"
+  ],
+  "hard": [
+    "javascript",
+    "typescript",
+    "algorithm",
+    "database",
+    "developer",
+    "function",
+    "variable",
+    "component",
+    "interface",
+    "framework"
+  ],
+  "veryHard": [
+    "pneumonia",
+    "xylophone",
+    "psychology",
+    "zodiac",
+    "mystery",
+    "adventure",
+    "universe",
+    "galaxy",
+    "chocolate",
+    "elephant"
+  ],
+  "bonus": [
+    "rocket",
+    "pirate",
+    "dragon",
+    "wizard",
+    "castle",
+    "knight",
+    "treasure",
+    "puzzle",
+    "shadow",
+    "legend"
+  ]
+}
